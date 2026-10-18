@@ -23,9 +23,9 @@ I build practical tools to simplify server management, automate repetitive tasks
 | Project | Description |
 |---|---|
 | [**Grimjow Websocket Multiport**](https://github.com/ejaywattapak/grimjow) | Autoscript SSH XRAYS Websocket Multiport |
-| [**CloudFail 1003**](https://github.com/ejaywattapak/cloudfail1003) | VPS utilities and automation scripts |
-| [**VPS Monitor**](https://github.com/ejaywattapak/vpsmonitor) | Monitor your VPS from the terminal |
-| [**RDNS Manager**](https://github.com/ejaywattapak/rdns-manager) | Reverse DNS management utility |
+| [**CloudFail 1003**](https://github.com/ejaywattapak/cloudfail1003) | Search for same IP Address or Domain |
+| [**VPS Monitor**](https://github.com/ejaywattapak/vpsmonitor) | Monitor your VPS from Telegram BOT |
+| [**RDNS Manager**](https://github.com/ejaywattapak/rdns-manager) | Make your VPS - Proxy SOCKS5/HTTP |
 
 > Project descriptions are intentionally brief. Check each repository for its current features and setup instructions.
 
