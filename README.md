@@ -13,7 +13,8 @@
 
 ## `whoami`
 
-I'm **EJAYWATT**, an independent developer focused on Linux, VPS tools, networking, shell automation, and AI-powered utilities.
+I'm **EJAYWATT**, Code. Automate. Deploy.
+Linux enthusiast building VPS tools, proxy systems & AI-powered automation.
 
 I build practical tools to simplify server management, automate repetitive tasks, and make everyday workflows easier.
 
