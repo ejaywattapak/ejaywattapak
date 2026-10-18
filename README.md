@@ -4,7 +4,7 @@
 
 ### Building tools. Automating servers. Making things work.
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ejaywattapak)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ejwtpkvpn)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/ejaywattapak)
 
 </div>
@@ -13,7 +13,7 @@
 
 ## `whoami`
 
-I'm **EJAYWATAPAK**, an independent developer focused on Linux, VPS tools, networking, shell automation, and AI-powered utilities.
+I'm **EJAYWATT**, an independent developer focused on Linux, VPS tools, networking, shell automation, and AI-powered utilities.
 
 I build practical tools to simplify server management, automate repetitive tasks, and make everyday workflows easier.
 
@@ -21,13 +21,10 @@ I build practical tools to simplify server management, automate repetitive tasks
 
 | Project | Description |
 |---|---|
+| [**Grimjow Websocket Multiport**](https://github.com/ejaywattapak/grimjow) | Autoscript SSH XRAYS Websocket Multiport |
 | [**CloudFail 1003**](https://github.com/ejaywattapak/cloudfail1003) | VPS utilities and automation scripts |
 | [**VPS Monitor**](https://github.com/ejaywattapak/vpsmonitor) | Monitor your VPS from the terminal |
-| [**VLEE VPS / AI**](https://github.com/ejaywattapak/vleevps) | AI agent and VPS-related tooling |
 | [**RDNS Manager**](https://github.com/ejaywattapak/rdns-manager) | Reverse DNS management utility |
-| [**DEKU**](https://github.com/ejaywattapak/deku) | Server automation project |
-| [**ALLOW**](https://github.com/ejaywattapak/allow) | Networking / utility project |
-| [**UDP-CUSTOM**](https://github.com/ejaywattapak/UDP-CUSTOM) | UDP tunneling-related project |
 
 > Project descriptions are intentionally brief. Check each repository for its current features and setup instructions.
 
