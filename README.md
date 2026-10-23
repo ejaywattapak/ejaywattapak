@@ -26,6 +26,8 @@ I build practical tools to simplify server management, automate repetitive tasks
 | [**CloudFail 1003**](https://github.com/ejaywattapak/cloudfail1003) | Search for same IP Address or Domain |
 | [**VPS Monitor**](https://github.com/ejaywattapak/vpsmonitor) | Monitor your VPS from Telegram BOT |
 | [**RDNS Manager**](https://github.com/ejaywattapak/rdns-manager) | Make your VPS - Proxy SOCKS5/HTTP |
+| [**TVMod/Debloat**](https://github.com/ejaywattapak/tvmod) | Android TV Debloat |
+| [**VPS Auto Rebuild**](https://t.me/ejwattvpsrebuild_bot) | Let Bot Rebuild Your VPS |
 
 > Project descriptions are intentionally brief. Check each repository for its current features and setup instructions.
 
